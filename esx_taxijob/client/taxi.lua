@@ -25,12 +25,6 @@ while not HasModelLoaded(0xe52e126c) do
 	Wait(1)
 end
 
--- Set a blip on the map for Downtown Cab
-downtownc = AddBlipForCoord(900.461, -181.466, 73.89)
-SetBlipSprite(downtownc, 56)
-SetBlipDisplay(downtownc, 3)
-SetBlipNameFromTextFile(downtownc, "TXM_BLIP")
-
 -- Spawn the taxi cab to DownTown Cab
 for _, item in pairs(cabs) do
 	cab =  CreateVehicle(item.hash, item.x, item.y, item.z, item.a, false, false)
