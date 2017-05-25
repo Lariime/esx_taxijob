@@ -29,6 +29,9 @@ Compatible avec esx_phone
 
 NOTE: La tenue de travail seras ajouter plus tard
 
+NOTE2: Appuyer sur Suppr une fois en voiture pour activé les missions avec les PNJ
+
+
 PS: Notre serveur recherche des developpeurs sur ESX, le travaille pour le serveur serras partagé a tous !
 
 
@@ -55,6 +58,7 @@ Compatible with esx_phone
 
 NOTE: Workwear will be added later
 
+NOTE2: Press "SUPPR" for launch taxi missions
 
 
 
