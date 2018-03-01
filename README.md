@@ -1,3 +1,6 @@
+!!!! DONT WORK WITH FXSERVER !!!!
+
+
 CREDIT TO: 
 - Creator of es_taxi
 
